@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/econ.simulator.doc/',
   title: "Docs for Econ Simulator",
   description: "getting started",
   themeConfig: {
