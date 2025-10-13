@@ -1,0 +1,10 @@
+/__pycache__/
+.vscode/
+.DS_Store
+
+docs/.vitepress/cache/deps
+node_modules/
+dist/
+build/
+*.log
+*.tmp
