@@ -12,7 +12,7 @@ hero:
       link: /overview
     - theme: brand
       text: 策略编写指南
-      link: /user_strategies/household
+      link: /user_strategies/user_script_api_index
 
 features:
   - title: 异质性代理人

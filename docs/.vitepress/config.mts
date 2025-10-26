@@ -22,11 +22,12 @@ export default defineConfig({
       {
         text: '策略编写指南',
         items: [
-            { text: '家户', link: '/user_strategies/household' },
-            { text: '企业', link: '/user_strategies/firm' },
-            { text: '商业银行', link: '/user_strategies/bank' },
-            { text: '中央银行', link: '/user_strategies/central_bank' },
-            { text: '政府', link: '/user_strategies/government' },
+            { text: '总览', link: '/user_strategies/user_script_api_index' },
+            { text: '家户', link: '/user_strategies/user_script_api_household' },
+            { text: '企业', link: '/user_strategies/user_script_api_firm' },
+            { text: '商业银行', link: '/user_strategies/user_script_api_bank' },
+            { text: '中央银行', link: '/user_strategies/user_script_api_central_bank' },
+            { text: '政府', link: '/user_strategies/user_script_api_government' },
         ] 
       }
     ],
