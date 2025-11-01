@@ -8,3 +8,4 @@ dist/
 build/
 *.log
 *.tmp
+docs/user_strategies/bak
